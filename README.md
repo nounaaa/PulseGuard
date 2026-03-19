@@ -10,7 +10,7 @@ Built in Qatar during a time when digital safety matters more than ever.
 
 ## 🤖 Try it
 
-**[@PulseGuardBot](https://t.me/YourBotUsername)** on Telegram — free
+**[@PulseGuardBot](https://t.me/pulseqabot)** on Telegram — free
 
 ---
 
